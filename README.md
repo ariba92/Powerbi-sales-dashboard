@@ -19,8 +19,7 @@ An interactive Power BI dashboard developed to analyze sales performance across 
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here.)
-
+![Sales Dashboard](dashboard.png)
 ## Key Insights
 - Total Sales: 119M
 - Total Profit: 16.89M
